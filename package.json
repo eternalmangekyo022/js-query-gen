@@ -1,0 +1,14 @@
+{
+  "name": "js-query-gen",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "faker": "^6.6.6",
+    "mysql2": "^3.6.5"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@faker-js/faker": "^8.3.1"
+  }
+}

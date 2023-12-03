@@ -1,0 +1,2 @@
+id, item_id, percent, start, end
+int, int, int, datetime, datetime
